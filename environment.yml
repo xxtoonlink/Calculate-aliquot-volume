@@ -1,0 +1,10 @@
+name: voila
+channels:
+  - conda-forge
+dependencies:
+  - ipyvolume
+  - bqplot
+  - scipy
+  - ipympl
+  - voila=0.1.20
+  - ipympl
